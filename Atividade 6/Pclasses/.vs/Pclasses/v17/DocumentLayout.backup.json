@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|c:\\users\\0030482421010\\source\\repos\\pclasses\\pclasses\\frmmensalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|solutionrelative:pclasses\\frmmensalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|c:\\users\\0030482421010\\source\\repos\\pclasses\\pclasses\\mensalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|solutionrelative:pclasses\\mensalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|c:\\users\\0030482421010\\source\\repos\\pclasses\\pclasses\\frmmensalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|solutionrelative:pclasses\\frmmensalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|c:\\users\\0030482421010\\source\\repos\\pclasses\\pclasses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|solutionrelative:pclasses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|c:\\users\\0030482421010\\source\\repos\\pclasses\\pclasses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|solutionrelative:pclasses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|c:\\users\\0030482421010\\source\\repos\\pclasses\\pclasses\\empregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|solutionrelative:pclasses\\empregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|c:\\users\\0030482421010\\source\\repos\\pclasses\\pclasses\\frmhorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|solutionrelative:pclasses\\frmhorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|c:\\users\\0030482421010\\source\\repos\\pclasses\\pclasses\\horista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFA7926-CFCA-4DAE-AD9A-68CE5EF78785}|Pclasses\\Pclasses.csproj|solutionrelative:pclasses\\horista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMensalista.cs",
+              "DocumentMoniker": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\frmMensalista.cs",
+              "RelativeDocumentMoniker": "Pclasses\\frmMensalista.cs",
+              "ToolTip": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\frmMensalista.cs",
+              "RelativeToolTip": "Pclasses\\frmMensalista.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBwAAAD/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:24:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Form1.cs",
+              "RelativeDocumentMoniker": "Pclasses\\Form1.cs",
+              "ToolTip": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Form1.cs",
+              "RelativeToolTip": "Pclasses\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:13:31.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmHorista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\frmHorista.cs",
+              "RelativeDocumentMoniker": "Pclasses\\frmHorista.cs",
+              "ToolTip": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\frmHorista.cs [Design]",
+              "RelativeToolTip": "Pclasses\\frmHorista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:10:26.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMensalista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\frmMensalista.cs",
+              "RelativeDocumentMoniker": "Pclasses\\frmMensalista.cs",
+              "ToolTip": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\frmMensalista.cs [Design]",
+              "RelativeToolTip": "Pclasses\\frmMensalista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:10:11.738Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Horista.cs",
+              "DocumentMoniker": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Horista.cs",
+              "RelativeDocumentMoniker": "Pclasses\\Horista.cs",
+              "ToolTip": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Horista.cs",
+              "RelativeToolTip": "Pclasses\\Horista.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:27:16.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mensalista.cs",
+              "DocumentMoniker": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Mensalista.cs",
+              "RelativeDocumentMoniker": "Pclasses\\Mensalista.cs",
+              "ToolTip": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Mensalista.cs",
+              "RelativeToolTip": "Pclasses\\Mensalista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:27:01.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empregado.cs",
+              "DocumentMoniker": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Empregado.cs",
+              "RelativeDocumentMoniker": "Pclasses\\Empregado.cs",
+              "ToolTip": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Empregado.cs",
+              "RelativeToolTip": "Pclasses\\Empregado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:26:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Form1.cs",
+              "RelativeDocumentMoniker": "Pclasses\\Form1.cs",
+              "ToolTip": "C:\\Users\\0030482421010\\source\\repos\\Pclasses\\Pclasses\\Form1.cs [Design]",
+              "RelativeToolTip": "Pclasses\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:25:40.925Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

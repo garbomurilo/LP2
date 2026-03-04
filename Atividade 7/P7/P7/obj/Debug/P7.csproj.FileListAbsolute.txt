@@ -1,0 +1,28 @@
+C:\Users\eduar\Downloads\P7\P7\P7\bin\Debug\P7.exe.config
+C:\Users\eduar\Downloads\P7\P7\P7\bin\Debug\P7.exe
+C:\Users\eduar\Downloads\P7\P7\P7\bin\Debug\P7.pdb
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.Form1.resources
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.frmExercicio1.resources
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.frmExercicio2.resources
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.Properties.Resources.resources
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.csproj.GenerateResource.cache
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.exe
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.pdb
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.frmExercicio3.resources
+C:\Users\eduar\Downloads\P7\P7\P7\obj\Debug\P7.frmExercicio4.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.Form1.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.frmExercicio1.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.frmExercicio2.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.frmExercicio3.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.frmExercicio4.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.exe
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\obj\Debug\P7.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\bin\Debug\P7.exe.config
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\bin\Debug\P7.exe
+C:\Users\eduar\OneDrive\Área de Trabalho\Minha pastinha S2\P7\P7\bin\Debug\P7.pdb
