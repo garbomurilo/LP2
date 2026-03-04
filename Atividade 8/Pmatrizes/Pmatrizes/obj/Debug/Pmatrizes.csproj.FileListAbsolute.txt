@@ -1,0 +1,23 @@
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.exe.config
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.exe
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.pdb
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.AssemblyReference.cache
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.Form1.resources
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.Properties.Resources.resources
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.GenerateResource.cache
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.CoreCompileInputs.cache
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.exe
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.pdb
+C:\Users\0030482421025\Desktop\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.frmExercicio4.resources
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.exe.config
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.exe
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.pdb
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.Form1.resources
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.frmExercicio4.resources
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.Properties.Resources.resources
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.GenerateResource.cache
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.exe
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.pdb
+C:\Users\luisp\OneDrive\Documentos\ADS\2º Semestre\LP II\Pmatrizes\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.frmExercicio5.resources
